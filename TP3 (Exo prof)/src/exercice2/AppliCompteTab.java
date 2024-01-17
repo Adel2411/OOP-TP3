@@ -1,8 +1,8 @@
-package Solutions.exercice2;
+package exercice2;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import Solutions.exercice1.CompteBancaire;
+import exercice1.CompteBancaire;
 
 public class AppliCompteTab {
     public static void main(String[] args) {

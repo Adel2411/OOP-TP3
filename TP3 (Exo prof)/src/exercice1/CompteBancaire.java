@@ -1,4 +1,4 @@
-package Solutions.exercice1;
+package exercice1;
 
 public class CompteBancaire {
     private int numCompte = 0;
